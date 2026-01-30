@@ -64,7 +64,7 @@ const Hero = () => {
 
           {/* View Resume */}
           <a
-            href="/assets/GaneshResume_8208430169.pdf"
+            href="https://ganeshkore.github.io/portfolio/assets/GaneshResume_8208430169.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -75,7 +75,7 @@ const Hero = () => {
 
           {/* Download Resume */}
           <a
-            href="/assets/GaneshResume_8208430169.pdf"
+            href="https://ganeshkore.github.io/portfolio/assets/GaneshResume_8208430169.pdf"
             download
           >
             <button className="magnetic-btn secondary">

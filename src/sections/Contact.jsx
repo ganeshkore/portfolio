@@ -93,7 +93,7 @@ const Contact = () => {
             </p>
 
             <a
-              href="/assets/GaneshResume_8208430169.pdf"
+              href="https://ganeshkore.github.io/portfolio/assets/GaneshResume_8208430169.pdf"
               download
               className="inline-flex items-center gap-2 px-6 py-3 bg-emerald-500 text-zinc-900 font-medium rounded-lg hover:bg-emerald-600 transition"
             >
